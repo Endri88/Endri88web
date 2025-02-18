@@ -231,5 +231,16 @@ h3{
         height: fit-content;
         background-color: rgb(230, 223, 223);
         margin: 0 auto;
+        }
+        
+        p{
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 12px;
+            line-height: 29px;
+            margin: -19px 14px
+            padding: 10px;
+        }
+           
           }
            
