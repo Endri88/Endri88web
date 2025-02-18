@@ -14,7 +14,7 @@ text-align: center;
 }
 
 body{
-    width: 1080px;
+    width: 100%;
     height: fit-content;
     background-color: rgb(230, 223, 223);
     margin: 0 auto;
