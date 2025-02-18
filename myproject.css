@@ -1,0 +1,221 @@
+
+/*mainpage,nextpage,nextpage2*/
+
+header{
+
+
+text-align: center;
+
+}
+
+.linea{
+    border: 1px solid rgb(230, 223, 223);
+
+}
+
+body{
+    width: 1080px;
+    height: fit-content;
+    background-color: rgb(230, 223, 223);
+    margin: 0 auto;
+     }
+.firstlinks{
+    margin-top: 10px;
+}
+
+
+
+a:visited{
+    color: rgb(49, 50, 47);
+}
+
+a:link{
+    text-decoration: none;
+    
+}
+
+.link{
+    color: rgb(109, 109, 101);
+    cursor: pointer;
+    padding: 0 10px;
+
+        
+}
+
+nav{
+    margin-top: 6px;
+}
+
+
+h2{
+    font-family:Copperplate, Papyrus, fantasy;
+    font-size: 23px;
+}
+   
+
+
+
+.bordo{
+    border:  1px solid rgb(102, 92, 92);
+    background-color: #eee;
+    height: auto;
+    border-radius: 20px;
+    border-color: transparent;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    
+
+}
+
+#bordocontact{
+    padding: 0;
+}
+
+.container{
+    border:  1px solid rgb(102, 92, 92);
+    
+    background-color: #eee;
+    height: auto;
+    border-radius: 20px;
+    border-color: transparent;
+
+    }
+
+    h4{
+        text-align: center;
+        color: #0410387a;
+    }
+
+   
+
+ .next{
+    
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    padding: 50px 70px;
+    justify-content: space-around;
+    gap: 20px;
+    object-fit: contain;
+    flex-wrap: wrap;
+}
+
+img { 
+    display: flex;
+    width: auto;
+    align-items: center;
+    height: 200px; 
+    justify-content: space-around;
+    object-fit: cover;
+    
+}
+
+.nextpage{
+    display: flex;
+    justify-content: center
+
+}
+
+.backpage{
+    display: flex;
+    justify-content: center;
+    display: inline-block;
+}
+
+.nextpage{
+    display: flex;
+    display: inline-block;
+    justify-content: center;
+   
+}
+
+.movepage {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+
+       
+/*about page*/
+
+.viktorabout{
+    display: flex;
+    justify-content: center;
+}
+
+.viktorabout1{
+    height: 130px;
+    width: auto;
+    border-radius: 30px;
+    margin: 26px;
+    object-fit: cover;
+
+}
+
+
+                                                        
+
+
+
+
+p{
+    text-align: center;
+    margin: 10px 120px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    line-height: 35px;
+    margin-bottom: 45px;
+}
+
+
+
+
+
+
+ /* contact page */
+
+
+.social{
+    text-align: center;
+    gap: 40px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.mail{
+    display: flex;
+    display: inline;
+    
+}
+
+.maildeco{
+    color: rgb(109, 109, 101);
+}
+
+h3{
+    text-align: center;
+    font-size: 24px;
+}
+
+.social{
+    text-align: center;
+}
+
+.icon{
+    vertical-align: middle;
+    padding:0;
+}
+
+#decicon{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+#contact{
+    height: 130px;
+}
