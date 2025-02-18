@@ -14,7 +14,7 @@ text-align: center;
 }
 
 body{
-    width: 100%;
+    width: 1080px;
     height: fit-content;
     background-color: rgb(230, 223, 223);
     margin: 0 auto;
@@ -219,3 +219,13 @@ h3{
 #contact{
     height: 130px;
 }
+
+@media (max-width: 600px) {
+
+        body{
+            width: 100%;
+        height: fit-content;
+        background-color: rgb(230, 223, 223);
+        margin: 0 auto;
+          }
+           
